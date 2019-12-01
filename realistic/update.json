@@ -1,9 +1,9 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/realisticulities",
     "1.14.4": {
-        "3.3": "-Added Feather Fall IV dosnt take Fall Damage"
+        "3.4": "-Added Feather Fall IV dosnt take Fall Damage"
     },
     "promos": {
-        "1.14.4-latest": "3.3"
+        "1.14.4-latest": "3.4"
     }
 }
